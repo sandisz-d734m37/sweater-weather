@@ -195,17 +195,8 @@
           null,
           null
         ]
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/application_record.rb": {
-        "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1655006258
+    "timestamp": 1655006600
   }
 }
