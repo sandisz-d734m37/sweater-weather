@@ -116,6 +116,25 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/hourly_weather.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          8,
+          8,
+          8,
+          8,
+          8,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/application_record.rb": {
         "lines": [
           0,
@@ -126,6 +145,6 @@
         }
       }
     },
-    "timestamp": 1655001121
+    "timestamp": 1655001357
   }
 }
