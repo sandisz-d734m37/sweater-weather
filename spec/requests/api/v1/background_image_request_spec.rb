@@ -8,7 +8,7 @@ describe "Background Image request" do
   end
 
   it "responds successfully", :vcr do
-    expect(response).ro be_successful
+    expect(response).to be_successful
     expect(@image_response).to be_a(Hash)
     expect(@image_response[:data][:id]).to eq(nil)
     expect(@image_response[:data][:type]).to eq("image")
