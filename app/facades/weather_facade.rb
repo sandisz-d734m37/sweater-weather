@@ -13,7 +13,7 @@ class WeatherFacade
     def get_daily_weather(lat, lon)
       get_weather(lat, lon)
 
-      @weather_data[:daily][0..7].map do |data|
+      @weather_data[:daily][0..4].map do |data|
         DailyWeather.new(data)
       end
     end
