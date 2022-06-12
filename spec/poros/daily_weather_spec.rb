@@ -10,6 +10,7 @@ describe "Current Weather PORO" do
 
   it "exists and has readable attributes" do
     expect(@daily_weather.count).to eq(5)
+    expect(@daily_weather[0]).to be_a(DailyWeather)
     expect(@daily_weather[0].id).to eq(nil)
 
     expect(@daily_weather[0].date).to eq("06/11/22")

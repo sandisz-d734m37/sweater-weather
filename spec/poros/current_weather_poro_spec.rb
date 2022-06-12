@@ -8,6 +8,8 @@ describe "Current Weather PORO" do
 
   it "exists and has readable attributes" do
     expect(@current_weather.id).to eq(nil)
+    expect(@current_weather).to be_a(CurrentWeather)
+
 
     expect(@current_weather.datetime).to eq("06/12/22 at 01:24:38 UTC")
     expect(@current_weather.sunrise).to eq("06/11/22 at 09:42:24 UTC")
