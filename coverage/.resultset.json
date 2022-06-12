@@ -1,6 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/image_facade.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          3,
+          null,
+          3,
+          3,
+          null,
+          null,
+          3,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/location_facade.rb": {
         "lines": [
           1,
@@ -41,6 +58,46 @@
           6,
           48,
           null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/image.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          4,
+          4,
+          null,
+          4,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/image_service.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          4,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          4,
+          null,
+          null,
+          1,
+          4,
+          4,
           null,
           null,
           null
@@ -196,6 +253,39 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/backgrounds_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/background_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/weather_controller.rb": {
         "lines": [
           1,
@@ -260,6 +350,6 @@
         ]
       }
     },
-    "timestamp": 1655014502
+    "timestamp": 1655069644
   }
 }
