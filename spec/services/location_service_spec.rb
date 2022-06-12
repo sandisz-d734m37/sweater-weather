@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe LocationService do
-  it "gets a location with a string" do
+  it "gets a location with a string", :vcr do
     location_data = LocationService.get_location("Denver,CO")
 
     expect(location_data).to be_a(Hash)
