@@ -1,6 +1,38 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/current_weather.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/application_record.rb": {
         "lines": [
           0,
@@ -74,6 +106,6 @@
         }
       }
     },
-    "timestamp": 1654995767
+    "timestamp": 1654998871
   }
 }
