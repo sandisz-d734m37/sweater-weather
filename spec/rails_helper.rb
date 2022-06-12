@@ -72,3 +72,12 @@ Shoulda::Matchers.configure do |config|
     with.library :rails
   end
 end
+
+VCR.configure do |config|
+  config.cassette_library_dir = "spec/fixtures/vcr_cassettes"
+  config.hook_into :webmock
+  config.configure_rspec_metadata!
+  config.filter_sensitive_data("Sike you thought") { ENV['MAPQUEST_API_KEY'] }
+  config.filter_sensitive_data("Sike you thought") { ENV['WEATHER_API_KEY'] }
+  config.allow_http_connections_when_no_cassette = true
+end

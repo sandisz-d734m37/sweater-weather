@@ -16,9 +16,11 @@
 
 require "simplecov"
 SimpleCov.start do
-  add_filter "app/controllers"
-  add_filter "app/serializers"
+  add_filter "app/models/application_record.rb"
+  add_filter "app/controllers/application_controller.rb"
 end
+
+require 'webmock/rspec'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
