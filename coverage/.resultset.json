@@ -1,6 +1,63 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/location_facade.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/location_service.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          2,
+          null,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/location.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/application_record.rb": {
         "lines": [
           0,
@@ -9,57 +66,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/location.rb": {
-        "lines": [
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/location_service.rb": {
-        "lines": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0,
-          null,
-          0,
-          0,
-          0,
-          null,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1654995045
+    "timestamp": 1654995346
   }
 }

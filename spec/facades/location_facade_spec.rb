@@ -2,8 +2,8 @@ require "rails_helper"
 
 describe LocationFacade do
   before do
-    @location = LocationFacade.get_location("Denver,CO")
     VCR.insert_cassette("gets_a_location_with_a_string")
+    @location = LocationFacade.get_location("Denver,CO")
   end
 
   after do
