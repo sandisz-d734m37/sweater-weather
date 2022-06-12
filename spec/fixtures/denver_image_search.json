@@ -1,0 +1,985 @@
+{
+    "_type": "Images",
+    "instrumentation": {
+        "_type": "ResponseInstrumentation"
+    },
+    "readLink": "https://api.bing.microsoft.com/api/v7/images/search?q=denver,co",
+    "webSearchUrl": "https://www.bing.com/images/search?q=denver,co&FORM=OIIARP",
+    "queryContext": {
+        "originalQuery": "denver,co",
+        "alterationDisplayQuery": "\"denver co\"",
+        "alterationOverrideQuery": "+denver,co",
+        "alterationMethod": "AM_ChangeItWithRecourse",
+        "alterationType": "CombinedAlterationsChained"
+    },
+    "totalEstimatedMatches": 200,
+    "nextOffset": 1,
+    "currentOffset": 0,
+    "value": [
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=denver%2cco&id=6400F69C4FB790D6893C6E6C95FAD4A33D41F0AA&simid=608025622650514520",
+            "name": "Denver, CO – Loving Cities Index",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.nc2RrTR6o31Tm2Bw-E8g-gHaD4&pid=Api",
+            "datePublished": "2020-09-08T18:00:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://lovingcities.schottfoundation.org/wp-content/uploads/2018/01/profile-denver.jpg",
+            "hostPageUrl": "https://lovingcities.schottfoundation.org/cities/denver-co/",
+            "contentSize": "157248 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://lovingcities.schottfoundation.org/cities/denver-co",
+            "width": 1200,
+            "height": 630,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.xluPUAU6PNgXuUquHZGAuA&pid=Api",
+            "hostPageDiscoveredDate": "2018-03-18T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 248
+            },
+            "imageInsightsToken": "ccid_nc2RrTR6*cp_5541720B2A3F95D9034F13022DD73DCC*mid_6400F69C4FB790D6893C6E6C95FAD4A33D41F0AA*simid_608025622650514520*thid_OIP.nc2RrTR6o31Tm2Bw-E8g-gHaD4",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "6400F69C4FB790D6893C6E6C95FAD4A33D41F0AA",
+            "accentColor": "6A7130"
+        }
+    ],
+    "queryExpansions": [
+        {
+            "text": "City Park Denver Co",
+            "displayText": "City Park",
+            "webSearchUrl": "https://www.bing.com/images/search?q=City+Park+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22City+Park%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=City+Park+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22City+Park%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=City+Park+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Mountains",
+            "displayText": "Mountains",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Mountains&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Mountains%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Mountains&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Mountains%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Co+Mountains&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Skyline",
+            "displayText": "Skyline",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Skyline&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Skyline%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Skyline&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Skyline%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Co+Skyline&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Map",
+            "displayText": "Map",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Map&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Map%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Map&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Map%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Co+Map&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Cherry Creek Denver Co",
+            "displayText": "Cherry Creek",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Cherry+Creek+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cherry+Creek%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cherry+Creek+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cherry+Creek%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Cherry+Creek+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Downtown Denver Co",
+            "displayText": "Downtown",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Downtown+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Downtown%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Downtown+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Downtown%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Downtown+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Union Station Denver Co",
+            "displayText": "Union Station",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Union+Station+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Union+Station%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Union+Station+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Union+Station%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Union+Station+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Washington Park Denver Co",
+            "displayText": "Washington Park",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Washington+Park+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Washington+Park%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Washington+Park+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Washington+Park%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Washington+Park+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Zoo",
+            "displayText": "Zoo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Zoo&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Zoo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Zoo&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Zoo%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Co+Zoo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Casa Bonita Denver Co",
+            "displayText": "Casa Bonita",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Casa+Bonita+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Casa+Bonita%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Casa+Bonita+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Casa+Bonita%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Casa+Bonita+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co County",
+            "displayText": "County",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+County&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22County%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+County&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22County%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Co+County&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Colorado Denver Co",
+            "displayText": "Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Colorado+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Colorado%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Colorado+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Colorado%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Colorado+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Coors Field Denver Co",
+            "displayText": "Coors Field",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Coors+Field+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Coors+Field%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Coors+Field+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Coors+Field%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Coors+Field+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Things to Do",
+            "displayText": "Things Do",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Things+to+Do&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Things+Do%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Things+to+Do&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Things+Do%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Co+Things+to+Do&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Molly Brown House Denver Co",
+            "displayText": "Molly Brown House",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Molly+Brown+House+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Molly+Brown+House%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Molly+Brown+House+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Molly+Brown+House%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Molly+Brown+House+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Attractions",
+            "displayText": "Attractions",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Attractions&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Attractions%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Attractions&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Attractions%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Co+Attractions&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Elitch Gardens Denver Co",
+            "displayText": "Elitch Gardens",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Elitch+Gardens+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Elitch+Gardens%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Elitch+Gardens+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Elitch+Gardens%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Elitch+Gardens+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Larimer Square Denver Co",
+            "displayText": "Larimer Square",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Larimer+Square+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Larimer+Square%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Larimer+Square+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Larimer+Square%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Larimer+Square+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Housing Suburbs of Denver Co",
+            "displayText": "Housing Suburbs",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Housing+Suburbs+of+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Housing+Suburbs%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Housing+Suburbs+of+Denver+Co&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Housing+Suburbs%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Housing+Suburbs+of+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Winter",
+            "displayText": "Winter",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Winter&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Winter%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Winter&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Winter%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Co+Winter&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        }
+    ],
+    "pivotSuggestions": [
+        {
+            "pivot": "",
+            "suggestions": [
+                {
+                    "text": "Colorado Springs",
+                    "displayText": "Colorado Springs",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Colorado+Springs&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Colorado+Springs%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Colorado+Springs&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Colorado+Springs%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Colorado+Springs&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Seattle",
+                    "displayText": "Seattle",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Seattle&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Seattle%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Seattle&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Seattle%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Seattle&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Boulder",
+                    "displayText": "Boulder",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Boulder&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boulder%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Boulder&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boulder%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Boulder&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Salt Lake City",
+                    "displayText": "Salt Lake City",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Salt+Lake+City&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Salt+Lake+City%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Salt+Lake+City&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Salt+Lake+City%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Salt+Lake+City&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Chicago",
+                    "displayText": "Chicago",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Chicago&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chicago%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Chicago&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Chicago%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Chicago&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Portland",
+                    "displayText": "Portland",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Portland&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Portland%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Portland&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Portland%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Portland&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Albuquerque",
+                    "displayText": "Albuquerque",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Albuquerque&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Albuquerque%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Albuquerque&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Albuquerque%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Albuquerque&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Minneapolis",
+                    "displayText": "Minneapolis",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Minneapolis&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Minneapolis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Minneapolis&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Minneapolis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Minneapolis&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Boston",
+                    "displayText": "Boston",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Boston&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boston%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Boston&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Boston%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Boston&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Detroit",
+                    "displayText": "Detroit",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Detroit&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Detroit%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Detroit&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Detroit%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Detroit&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Kansas City",
+                    "displayText": "Kansas City",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Kansas+City&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Kansas+City%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Kansas+City&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Kansas+City%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Kansas+City&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "San Diego",
+                    "displayText": "San Diego",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=San+Diego&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22San+Diego%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=San+Diego&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22San+Diego%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=San+Diego&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Indianapolis",
+                    "displayText": "Indianapolis",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Indianapolis&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Indianapolis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Indianapolis&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Indianapolis%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Indianapolis&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Philadelphia",
+                    "displayText": "Philadelphia",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Philadelphia&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Philadelphia%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Philadelphia&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Philadelphia%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Philadelphia&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Miami",
+                    "displayText": "Miami",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Miami&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Miami%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Miami&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Miami%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Miami&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Cleveland",
+                    "displayText": "Cleveland",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Cleveland&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cleveland%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cleveland&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Cleveland%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Cleveland&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "New Orleans",
+                    "displayText": "New Orleans",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=New+Orleans&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22New+Orleans%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=New+Orleans&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22New+Orleans%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse3.mm.bing.net/th?q=New+Orleans&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "San Antonio",
+                    "displayText": "San Antonio",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=San+Antonio&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22San+Antonio%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=San+Antonio&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22San+Antonio%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=San+Antonio&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Washington, D C",
+                    "displayText": "Washington, D C",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Washington%2c+D+C&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Washington%2c+D+C%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Washington%2c+D+C&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Washington%2c+D+C%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Washington%2c+D+C&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                },
+                {
+                    "text": "Pittsburgh",
+                    "displayText": "Pittsburgh",
+                    "webSearchUrl": "https://www.bing.com/images/search?q=Pittsburgh&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pittsburgh%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d&FORM=IRQBPS",
+                    "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Pittsburgh&tq=%7b%22pq%22%3a%22denver%2cco%22%2c%22qs%22%3a%5b%7b%22cv%22%3a%22%22%2c%22pv%22%3a%22%22%2c%22hps%22%3atrue%2c%22iqp%22%3afalse%7d%2c%7b%22cv%22%3a%22Pittsburgh%22%2c%22pv%22%3a%22%22%2c%22hps%22%3afalse%2c%22iqp%22%3atrue%7d%5d%7d",
+                    "thumbnail": {
+                        "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Pittsburgh&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+                    }
+                }
+            ]
+        }
+    ],
+    "relatedSearches": [
+        {
+            "text": "Denver Pictures",
+            "displayText": "Denver Pictures",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Pictures&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Pictures",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Pictures&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Skyline",
+            "displayText": "Denver Skyline",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Skyline&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Skyline",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Skyline&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "City Park Denver Co",
+            "displayText": "City Park Denver Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=City+Park+Denver+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=City+Park+Denver+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=City+Park+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Images",
+            "displayText": "Denver Colorado Images",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Images&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Images",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Colorado+Images&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Wallpaper",
+            "displayText": "Denver Wallpaper",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Wallpaper&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Wallpaper",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Wallpaper&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Downtown Denver Skyline",
+            "displayText": "Downtown Denver Skyline",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Downtown+Denver+Skyline&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Downtown+Denver+Skyline",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Downtown+Denver+Skyline&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Attractions",
+            "displayText": "Denver Attractions",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Attractions&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Attractions",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Attractions&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Broncos Fans",
+            "displayText": "Denver Broncos Fans",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Broncos+Fans&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Broncos+Fans",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Broncos+Fans&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Attractions",
+            "displayText": "Denver Colorado Attractions",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Attractions&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Attractions",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Colorado+Attractions&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Streets",
+            "displayText": "Denver Streets",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Streets&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Streets",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Streets&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver City Hall",
+            "displayText": "Denver City Hall",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+City+Hall&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+City+Hall",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+City+Hall&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Houses",
+            "displayText": "Denver Colorado Houses",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Houses&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Houses",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Colorado+Houses&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Homes",
+            "displayText": "Denver Colorado Homes",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Homes&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Homes",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Colorado+Homes&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver County",
+            "displayText": "Denver County",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+County&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+County",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+County&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Vacation",
+            "displayText": "Denver Vacation",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Vacation&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Vacation",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Vacation&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Things to Do in Denver",
+            "displayText": "Things to Do in Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Things+to+Do+in+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Things+to+Do+in+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Things+to+Do+in+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Skyline Mountains",
+            "displayText": "Denver Skyline Mountains",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Skyline+Mountains&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Skyline+Mountains",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Skyline+Mountains&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Skyline Park Denver",
+            "displayText": "Skyline Park Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Skyline+Park+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Skyline+Park+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Skyline+Park+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Thornton Co",
+            "displayText": "Thornton Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Thornton+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Thornton+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Thornton+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Springs",
+            "displayText": "Denver Colorado Springs",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Springs&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Springs",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Colorado+Springs&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Today",
+            "displayText": "Denver Colorado Today",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Today&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Today",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Colorado+Today&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Sheraton Downtown Denver",
+            "displayText": "Sheraton Downtown Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Sheraton+Downtown+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Sheraton+Downtown+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Sheraton+Downtown+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Airport",
+            "displayText": "Denver Airport",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Airport&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Airport",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Airport&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Visit Denver",
+            "displayText": "Visit Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Visit+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Visit+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Visit+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Map",
+            "displayText": "Denver Co Map",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Map&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Map",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Co+Map&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Beautiful Denver Colorado",
+            "displayText": "Beautiful Denver Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Beautiful+Denver+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Beautiful+Denver+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Beautiful+Denver+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Summer",
+            "displayText": "Denver Colorado Summer",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Summer&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Summer",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Colorado+Summer&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Lodo Colorado",
+            "displayText": "Lodo Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Lodo+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Lodo+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Lodo+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Restaurants",
+            "displayText": "Denver Restaurants",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Restaurants&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Restaurants",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Restaurants&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Mile High City",
+            "displayText": "Mile High City",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Mile+High+City&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Mile+High+City",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Mile+High+City&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Downtown Denver Colorado Winter",
+            "displayText": "Downtown Denver Colorado Winter",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Downtown+Denver+Colorado+Winter&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Downtown+Denver+Colorado+Winter",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Downtown+Denver+Colorado+Winter&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Living in Denver Colorado",
+            "displayText": "Living in Denver Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Living+in+Denver+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Living+in+Denver+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Living+in+Denver+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Cities Near Denver Colorado",
+            "displayText": "Cities Near Denver Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Cities+Near+Denver+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cities+Near+Denver+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Cities+Near+Denver+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Pics",
+            "displayText": "Denver Pics",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Pics&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Pics",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Pics&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Mountains",
+            "displayText": "Denver Mountains",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Mountains&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Mountains",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Mountains&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Union Station Denver Co",
+            "displayText": "Union Station Denver Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Union+Station+Denver+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Union+Station+Denver+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Union+Station+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Tourism",
+            "displayText": "Denver Colorado Tourism",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Tourism&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Tourism",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Colorado+Tourism&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Co Zoo",
+            "displayText": "Denver Co Zoo",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Co+Zoo&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Co+Zoo",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Co+Zoo&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Union Station Denver Colorado",
+            "displayText": "Union Station Denver Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Union+Station+Denver+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Union+Station+Denver+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Union+Station+Denver+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Aurora Co",
+            "displayText": "Aurora Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Aurora+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Aurora+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Aurora+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Parker Co",
+            "displayText": "Parker Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Parker+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Parker+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Parker+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Centennial Co",
+            "displayText": "Centennial Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Centennial+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Centennial+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Centennial+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Sunset",
+            "displayText": "Denver Sunset",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Sunset&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Sunset",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Sunset&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Things to Do",
+            "displayText": "Denver Colorado Things to Do",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Things+to+Do&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Things+to+Do",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Colorado+Things+to+Do&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Hotel Indigo Denver",
+            "displayText": "Hotel Indigo Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Hotel+Indigo+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Hotel+Indigo+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Hotel+Indigo+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Rocky Mountains",
+            "displayText": "Denver Rocky Mountains",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Rocky+Mountains&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Rocky+Mountains",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Denver+Rocky+Mountains&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Washington Park Denver Co",
+            "displayText": "Washington Park Denver Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Washington+Park+Denver+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Washington+Park+Denver+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Washington+Park+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Cherry Creek Denver Co",
+            "displayText": "Cherry Creek Denver Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Cherry+Creek+Denver+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Cherry+Creek+Denver+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Cherry+Creek+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Capitol",
+            "displayText": "Denver Capitol",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Capitol&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Capitol",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Capitol&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Downtown Denver Colorado Christmas",
+            "displayText": "Downtown Denver Colorado Christmas",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Downtown+Denver+Colorado+Christmas&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Downtown+Denver+Colorado+Christmas",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Downtown+Denver+Colorado+Christmas&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Largest City in Colorado",
+            "displayText": "Largest City in Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Largest+City+in+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Largest+City+in+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Largest+City+in+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Broncos Old Logo Wallpaper",
+            "displayText": "Denver Broncos Old Logo Wallpaper",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Broncos+Old+Logo+Wallpaper&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Broncos+Old+Logo+Wallpaper",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?q=Denver+Broncos+Old+Logo+Wallpaper&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Colorado Nightlife",
+            "displayText": "Denver Colorado Nightlife",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Colorado+Nightlife&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Colorado+Nightlife",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Colorado+Nightlife&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Landmarks",
+            "displayText": "Denver Landmarks",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Landmarks&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Landmarks",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Landmarks&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver USA",
+            "displayText": "Denver USA",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+USA&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+USA",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+USA&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Downtown Denver Streets",
+            "displayText": "Downtown Denver Streets",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Downtown+Denver+Streets&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Downtown+Denver+Streets",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Downtown+Denver+Streets&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Rocky Mountains Denver Colorado",
+            "displayText": "Rocky Mountains Denver Colorado",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Rocky+Mountains+Denver+Colorado&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Rocky+Mountains+Denver+Colorado",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Rocky+Mountains+Denver+Colorado&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Location",
+            "displayText": "Denver Location",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Location&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Location",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Denver+Location&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Elevation",
+            "displayText": "Denver Elevation",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Elevation&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Elevation",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Elevation&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Denver Neighborhoods",
+            "displayText": "Denver Neighborhoods",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Denver+Neighborhoods&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Denver+Neighborhoods",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?q=Denver+Neighborhoods&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Larimer Square Denver",
+            "displayText": "Larimer Square Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Larimer+Square+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Larimer+Square+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Larimer+Square+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Casa Bonita Denver Co",
+            "displayText": "Casa Bonita Denver Co",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Casa+Bonita+Denver+Co&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Casa+Bonita+Denver+Co",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?q=Casa+Bonita+Denver+Co&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        },
+        {
+            "text": "Coors Field Denver",
+            "displayText": "Coors Field Denver",
+            "webSearchUrl": "https://www.bing.com/images/search?q=Coors+Field+Denver&FORM=IRPATC",
+            "searchLink": "https://api.bing.microsoft.com/api/v7/images/search?q=Coors+Field+Denver",
+            "thumbnail": {
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?q=Coors+Field+Denver&pid=Api&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1"
+            }
+        }
+    ]
+}
