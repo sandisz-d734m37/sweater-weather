@@ -35,6 +35,7 @@ describe "Book request" do
 
   it "responds with book data within the quantity range" do
      expect(@book_response[:data][:attributes]).to have_key(:total_books_found)
+     expect(@book_response[:data][:attributes][:total_books_found]).to be_an(Integer)
      expect(@book_response[:data][:attributes]).to have_key(:books)
      expect(@book_response[:data][:attributes][:books]).to be_an(Array)
      expect(@book_response[:data][:attributes][:books].length).to eq(3)
