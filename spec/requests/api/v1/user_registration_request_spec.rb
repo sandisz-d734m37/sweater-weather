@@ -20,7 +20,7 @@ describe "User registration" do
 
     user_data = JSON.parse(response.body, symbolize_names:true)
 
-    expect(user_data[:data][:id]).to be_a(String)
+    expect(user_data[:data][:id]).to be_an(Integer)
     expect(user_data[:data][:type]).to eq("user")
     expect(user_data[:data][:attributes]).to be_a(Hash)
     expect(user_data[:data][:attributes][:email]).to eq("user_1@firstuser.com")
