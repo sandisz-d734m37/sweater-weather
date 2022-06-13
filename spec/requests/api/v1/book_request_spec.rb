@@ -5,9 +5,16 @@ describe "Book request" do
     @current_weather = JSON.parse(File.read('spec/fixtures/denver_weather.json'), symbolize_names: true)
 
     allow(WeatherService).to receive(:get_weather_data).and_return(@current_weather)
+
+    VCR.insert_cassette("Book_request/responds_successfully")
+
     get "/api/v1/book-search?location=denver,co&quantity=3"
 
     @book_response = JSON.parse(response.body, symbolize_names: true)
+  end
+
+  after do
+    VCR.eject_cassette
   end
 
   it "responds successfully", :vcr do
