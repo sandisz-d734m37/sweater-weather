@@ -4,7 +4,7 @@ describe BookFacade do
   before do
     VCR.insert_cassette("gets_book_data_with_a_search_and_limit_query")
 
-    @books = BooksFacade.get_books("denver,co", 3)
+    @books = BookFacade.get_books("denver,co", 3)
   end
 
   after do
@@ -13,6 +13,7 @@ describe BookFacade do
 
   it "creates Book POROS" do
     expect(@books).to be_an(Array)
+    expect(@books.length).to eq(3)
     expect(@books[0]).to be_a(Book)
     expect(@books[0].isbn).to eq(["9780762507849","0762507845"])
     expect(@books[0].title).to eq("Denver, Co")
