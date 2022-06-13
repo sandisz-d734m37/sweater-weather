@@ -5,8 +5,8 @@ describe BookService do
     book_data = BookService.get_book_data("denver, co", 3)
 
     expect(book_data).to be_a(Hash)
-    expect(book_data).to have_key(:numfound)
-    expect(book_data[:numfound]).to be_an(Integer)
+    expect(book_data).to have_key(:numFound)
+    expect(book_data[:numFound]).to be_an(Integer)
     expect(book_data).to have_key(:docs)
     expect(book_data[:docs]).to be_an(Array)
     expect(book_data[:docs].length).to eq(3)
