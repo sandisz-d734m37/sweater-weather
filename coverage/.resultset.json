@@ -1,55 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/book_facade.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          3,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/book_service.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/book.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          3,
-          3,
-          3,
-          null,
-          null
-        ]
-      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/background_serializer.rb": {
         "lines": [
           0,
@@ -175,6 +126,23 @@
         "branches": {
         }
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/book_facade.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/image_facade.rb": {
         "lines": [
           0,
@@ -203,6 +171,21 @@
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/book.rb": {
+        "lines": [
+          0,
+          0,
+          null,
           0,
           0,
           0,
@@ -398,6 +381,29 @@
         "branches": {
         }
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/book_service.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/weather_service.rb": {
         "lines": [
           0,
@@ -429,6 +435,6 @@
         }
       }
     },
-    "timestamp": 1655135856
+    "timestamp": 1655136518
   }
 }
