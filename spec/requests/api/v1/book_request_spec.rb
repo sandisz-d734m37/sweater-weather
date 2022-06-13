@@ -46,4 +46,14 @@ describe "Book request" do
     expect(@book_response[:data][:attributes][:books][0]).to have_key(:publisher)
     expect(@book_response[:data][:attributes][:books][0][:publisher]).to be_an(Array)
   end
+
+  it "does not return unnecessary weather data" do
+    expect(@book_response[:data][:attributes][:forecast].length).to eq(2)
+    expect(@book_response[:data][:attributes][:forecast].keys).to eq([:summary, :temperature])
+  end
+
+  it "does not return unecessary book data" do
+    expect(@book_response[:data][:attributes][:books][0].length).to eq(3)
+    expect(@book_response[:data][:attributes][:books][0].keys).to eq([:isbn, :title, :publisher])
+  end
 end
