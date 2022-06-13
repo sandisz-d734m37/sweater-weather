@@ -1,6 +1,25 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/book_facade.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          11,
+          null,
+          11,
+          7,
+          21,
+          null,
+          null,
+          4,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/facades/image_facade.rb": {
         "lines": [
           1,
@@ -23,8 +42,8 @@
           1,
           1,
           1,
-          6,
-          6,
+          16,
+          16,
           null,
           null,
           null
@@ -35,13 +54,13 @@
           1,
           1,
           1,
-          18,
+          28,
           null,
           null,
           1,
-          6,
+          16,
           null,
-          6,
+          16,
           null,
           null,
           1,
@@ -63,6 +82,20 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/book.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          27,
+          27,
+          27,
+          27,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/image.rb": {
         "lines": [
           1,
@@ -75,6 +108,27 @@
           4,
           null,
           null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/services/book_service.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          12,
+          null,
+          null,
+          1,
+          12,
+          null,
+          null,
+          1,
+          12,
+          null,
+          12,
           null,
           null,
           null
@@ -108,24 +162,24 @@
           1,
           1,
           1,
-          7,
+          17,
           null,
           null,
           1,
-          7,
+          17,
           null,
           null,
           1,
-          7,
+          17,
           null,
-          7,
+          17,
           null,
           null,
-          null,
-          1,
           null,
           1,
-          7,
+          null,
+          1,
+          17,
           null,
           null,
           null
@@ -136,24 +190,24 @@
           1,
           1,
           1,
-          19,
+          9,
           null,
           null,
           1,
-          19,
+          9,
           null,
           null,
           1,
-          19,
+          9,
           null,
-          19,
+          9,
           null,
           null,
-          null,
-          1,
           null,
           1,
-          19,
+          null,
+          1,
+          9,
           null,
           null,
           null
@@ -165,13 +219,13 @@
           1,
           null,
           1,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
           null,
           null
         ]
@@ -193,17 +247,17 @@
           null,
           null,
           1,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
+          17,
           null,
           null
         ]
@@ -286,6 +340,59 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/books_controller.rb": {
+        "lines": [
+          1,
+          1,
+          10,
+          null,
+          10,
+          10,
+          10,
+          10,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/book_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          10,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          10,
+          4,
+          null,
+          6,
+          null,
+          10,
+          4,
+          null,
+          6,
+          null,
+          18,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/weather_controller.rb": {
         "lines": [
           1,
@@ -350,6 +457,6 @@
         ]
       }
     },
-    "timestamp": 1655069644
+    "timestamp": 1655143060
   }
 }

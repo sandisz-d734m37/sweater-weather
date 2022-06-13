@@ -2,6 +2,10 @@ require "rails_helper"
 
 describe "Weather request" do
   before do
+    @current_weather = JSON.parse(File.read('spec/fixtures/denver_weather.json'), symbolize_names: true)
+
+    allow(WeatherService).to receive(:get_weather_data).and_return(@current_weather)
+
     get "/api/v1/forecast?location=denver,co"
 
     @weather_response = JSON.parse(response.body, symbolize_names: true)

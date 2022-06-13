@@ -1,0 +1,163 @@
+{
+    "numFound": 42475,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL8503198W",
+            "type": "work",
+            "seed": [
+                "/books/OL10909613M",
+                "/works/OL8503198W",
+                "/authors/OL2843451A"
+            ],
+            "title": "Denver, Co",
+            "title_suggest": "Denver, Co",
+            "has_fulltext": false,
+            "edition_count": 1,
+            "edition_key": [
+                "OL10909613M"
+            ],
+            "publish_date": [
+                "January 2001"
+            ],
+            "publish_year": [
+                2001
+            ],
+            "first_publish_year": 2001,
+            "isbn": [
+                "9780762507849",
+                "0762507845"
+            ],
+            "last_modified_i": 1338943517,
+            "ebook_count_i": 0,
+            "publisher": [
+                "Universal Map Enterprises"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2843451A"
+            ],
+            "author_name": [
+                "Universal Map"
+            ],
+            "publisher_facet": [
+                "Universal Map Enterprises"
+            ],
+            "_version_": 1715096877364412420,
+            "author_facet": [
+                "OL2843451A Universal Map"
+            ]
+        },
+        {
+            "key": "/works/OL8808821W",
+            "type": "work",
+            "seed": [
+                "/books/OL8537031M",
+                "/works/OL8808821W",
+                "/authors/OL3010394A"
+            ],
+            "title": "University of Denver Co 2007",
+            "title_suggest": "University of Denver Co 2007",
+            "has_fulltext": false,
+            "edition_count": 1,
+            "edition_key": [
+                "OL8537031M"
+            ],
+            "publish_date": [
+                "July 1, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 180,
+            "oclc": [
+                "150368610"
+            ],
+            "isbn": [
+                "9781427401687",
+                "1427401683"
+            ],
+            "last_modified_i": 1304171421,
+            "ebook_count_i": 0,
+            "cover_edition_key": "OL8537031M",
+            "cover_i": 1847337,
+            "publisher": [
+                "College Prowler"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3010394A"
+            ],
+            "author_name": [
+                "College Prowler"
+            ],
+            "id_goodreads": [
+                "2985742"
+            ],
+            "publisher_facet": [
+                "College Prowler"
+            ],
+            "_version_": 1715097316549984257,
+            "author_facet": [
+                "OL3010394A College Prowler"
+            ]
+        },
+        {
+            "key": "/works/OL4437736W",
+            "type": "work",
+            "seed": [
+                "/books/OL10911511M",
+                "/works/OL4437736W",
+                "/authors/OL882946A"
+            ],
+            "title": "Denver Co Deluxe Flip Map",
+            "title_suggest": "Denver Co Deluxe Flip Map",
+            "has_fulltext": false,
+            "edition_count": 1,
+            "edition_key": [
+                "OL10911511M"
+            ],
+            "publish_date": [
+                "January 2003"
+            ],
+            "publish_year": [
+                2003
+            ],
+            "first_publish_year": 2003,
+            "isbn": [
+                "0762557362",
+                "9780762557363"
+            ],
+            "last_modified_i": 1260838560,
+            "ebook_count_i": 0,
+            "publisher": [
+                "Universal Map Enterprises"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL882946A"
+            ],
+            "author_name": [
+                "Laura Ryder"
+            ],
+            "publisher_facet": [
+                "Universal Map Enterprises"
+            ],
+            "_version_": 1715092143254536193,
+            "author_facet": [
+                "OL882946A Laura Ryder"
+            ]
+        }
+    ],
+    "num_found": 42475,
+    "q": "denver,co",
+    "offset": null
+}
