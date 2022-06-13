@@ -15,4 +15,8 @@ describe Book do
     expect(@books[0].title).to eq("Denver, Co")
     expect(@books[0].publisher).to eq(["Universal Map Enterprises"])
   end
+
+  it "houses the total responses" do
+    expect(@books[0].total_results).to eq(42475)
+  end
 end
