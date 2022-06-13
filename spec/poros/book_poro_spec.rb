@@ -4,7 +4,7 @@ describe Book do
   before do
     book_attr = JSON.parse(File.read('spec/fixtures/denver_co_3_books.json'), symbolize_names: true)
     @books = book_attr[:docs].map do |book_data|
-      Book.new(book_data)
+      Book.new(book_data, book_attr[:numFound])
     end
   end
 

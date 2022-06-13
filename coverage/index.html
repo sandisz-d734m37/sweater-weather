@@ -14,7 +14,7 @@
       <img src="./assets/0.12.3/loading.gif" alt="loading"/>
     </div>
     <div id="wrapper" class="hide">
-      <div class="timestamp">Generated <abbr class="timeago" title="2022-06-13T11:18:14-06:00">2022-06-13T11:18:14-06:00</abbr></div>
+      <div class="timestamp">Generated <abbr class="timeago" title="2022-06-13T11:20:08-06:00">2022-06-13T11:20:08-06:00</abbr></div>
       <ul class="group_tabs"></ul>
 
       <div id="content">
@@ -23,14 +23,14 @@
     <span class="group_name">All Files</span>
     (<span class="covered_percent">
       <span class="red">
-  1.88%
+  2.18%
 </span>
 
      </span>
      covered at
      <span class="covered_strength">
        <span class="red">
-         0.07
+         0.08
        </span>
     </span> hits/line
     )
@@ -43,11 +43,11 @@
   </div>
 
   <div class="t-line-summary">
-    <b>320</b> relevant lines,
-    <span class="green"><b>6</b> lines covered</span> and
+    <b>321</b> relevant lines,
+    <span class="green"><b>7</b> lines covered</span> and
     <span class="red"><b>314</b> lines missed. </span>
     (<span class="red">
-  1.88%
+  2.18%
 </span>
 )
   </div>
@@ -150,11 +150,11 @@
           <tr class="t-file">
             <td class="strong t-file__name"><a href="#8c961228e7e2494cfb7ccca989b7c64930e2cdcd" class="src_link" title="app/poros/book.rb">app/poros/book.rb</a></td>
             <td class="green strong cell--number t-file__coverage">100.00 %</td>
-            <td class="cell--number">9</td>
-            <td class="cell--number">6</td>
-            <td class="cell--number">6</td>
+            <td class="cell--number">10</td>
+            <td class="cell--number">7</td>
+            <td class="cell--number">7</td>
             <td class="cell--number">0</td>
-            <td class="cell--number">3.50</td>
+            <td class="cell--number">3.86</td>
             
           </tr>
         
@@ -741,14 +741,14 @@
     <span class="group_name">Ungrouped</span>
     (<span class="covered_percent">
       <span class="red">
-  2.02%
+  2.35%
 </span>
 
      </span>
      covered at
      <span class="covered_strength">
        <span class="red">
-         0.07
+         0.09
        </span>
     </span> hits/line
     )
@@ -761,11 +761,11 @@
   </div>
 
   <div class="t-line-summary">
-    <b>297</b> relevant lines,
-    <span class="green"><b>6</b> lines covered</span> and
+    <b>298</b> relevant lines,
+    <span class="green"><b>7</b> lines covered</span> and
     <span class="red"><b>291</b> lines missed. </span>
     (<span class="red">
-  2.02%
+  2.35%
 </span>
 )
   </div>
@@ -835,11 +835,11 @@
           <tr class="t-file">
             <td class="strong t-file__name"><a href="#8c961228e7e2494cfb7ccca989b7c64930e2cdcd" class="src_link" title="app/poros/book.rb">app/poros/book.rb</a></td>
             <td class="green strong cell--number t-file__coverage">100.00 %</td>
-            <td class="cell--number">9</td>
-            <td class="cell--number">6</td>
-            <td class="cell--number">6</td>
+            <td class="cell--number">10</td>
+            <td class="cell--number">7</td>
+            <td class="cell--number">7</td>
             <td class="cell--number">0</td>
-            <td class="cell--number">3.50</td>
+            <td class="cell--number">3.86</td>
             
           </tr>
         
@@ -2157,8 +2157,8 @@
     
 
     <div class="t-line-summary">
-      <b>6</b> relevant lines.
-      <span class="green"><b>6</b> lines covered</span> and
+      <b>7</b> relevant lines.
+      <span class="green"><b>7</b> lines covered</span> and
       <span class="red"><b>0</b> lines missed.</span>
     </div>
 
@@ -2187,7 +2187,7 @@
 
             
 
-            <code class="ruby">  attr_reader :isbn, :title, :publisher</code>
+            <code class="ruby">  attr_reader :isbn, :title, :publisher, :total_results</code>
           </li>
         </div>
       
@@ -2209,7 +2209,7 @@
 
             
 
-            <code class="ruby">  def initialize(data)</code>
+            <code class="ruby">  def initialize(data, total_results)</code>
           </li>
         </div>
       
@@ -2247,7 +2247,18 @@
         </div>
       
         <div>
-          <li class="never" data-hits="" data-linenumber="8">
+          <li class="covered" data-hits="6" data-linenumber="8">
+            <span class="hits">6</span>
+            
+
+            
+
+            <code class="ruby">    @total_results = total_results</code>
+          </li>
+        </div>
+      
+        <div>
+          <li class="never" data-hits="" data-linenumber="9">
             
             
 
@@ -2258,7 +2269,7 @@
         </div>
       
         <div>
-          <li class="never" data-hits="" data-linenumber="9">
+          <li class="never" data-hits="" data-linenumber="10">
             
             
 
