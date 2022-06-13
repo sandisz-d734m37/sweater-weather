@@ -6,5 +6,4 @@ class Book
     @title = data[:title]
     @publisher = data[:publisher]
   end
-
 end
