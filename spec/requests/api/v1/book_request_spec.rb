@@ -57,3 +57,15 @@ describe "Book request" do
     expect(@book_response[:data][:attributes][:books][0].keys).to eq([:isbn, :title, :publisher])
   end
 end
+
+describe "book request edge case" do
+  before do
+    get "/api/v1/book-search?location=denver,co&quantity=0"
+
+    @book_response = JSON.parse(response.body, symbolize_names: true)
+  end
+
+  it "returns a string and fails gracefully" do
+    expect(@book_response[:data][:attributes][:books]).to eq("No books to display")
+  end
+end
