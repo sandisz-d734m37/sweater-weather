@@ -65,7 +65,17 @@ describe "book request edge case" do
     @book_response = JSON.parse(response.body, symbolize_names: true)
   end
 
-  it "returns a string and fails gracefully" do
+  it "returns a string and fails gracefully if input is 0" do
     expect(@book_response[:data][:attributes][:books]).to eq("No books to display")
+    expect(@book_response[:data][:attributes][:total_books_found]).to eq(0)
+  end
+
+  it "returns a string and fails gracefully if input is below 0" do
+    get "/api/v1/book-search?location=denver,co&quantity=-100"
+
+    @book_response = JSON.parse(response.body, symbolize_names: true)
+    
+    expect(@book_response[:data][:attributes][:books]).to eq("No books to display")
+    expect(@book_response[:data][:attributes][:total_books_found]).to eq(0)
   end
 end
