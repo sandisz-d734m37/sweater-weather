@@ -74,8 +74,19 @@ describe "book request edge case" do
     get "/api/v1/book-search?location=denver,co&quantity=-100"
 
     @book_response = JSON.parse(response.body, symbolize_names: true)
-    
+
     expect(@book_response[:data][:attributes][:books]).to eq("No books to display")
     expect(@book_response[:data][:attributes][:total_books_found]).to eq(0)
+  end
+
+  it "still works if user inputs no query" do
+    get "/api/v1/book-search?quantity=3"
+
+    @book_response = JSON.parse(response.body, symbolize_names: true)
+
+    expect(@book_response[:data][:attributes][:destination]).to eq("Nowhere")
+    expect(@book_response[:data][:attributes]).to have_key(:total_books_found)
+    expect(@book_response[:data][:attributes]).to have_key(:books)
+    expect(@book_response[:data][:attributes]).to have_key(:forecast)
   end
 end
