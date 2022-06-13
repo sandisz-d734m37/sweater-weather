@@ -12,7 +12,7 @@ class BookSerializer
             summary: current_weather.conditions,
             temperature: current_weather.temperature
           },
-          total_books_found: "add a number to this",
+          total_books_found: book_list[0].total_results,
           books: book_list.map do |book|
             {
               isbn: book.isbn,
