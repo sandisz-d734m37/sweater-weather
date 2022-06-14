@@ -30,7 +30,7 @@ describe "Road trip POST request" do
     @road_trip_data = JSON.parse(response.body, symbolize_names: true)
   end
 
-  it "creates a road trip" do
+  it "creates a road trip", :vcr do
     expect(response).to be_successful
 
     expect(@road_trip_data).to be_a(Hash)
@@ -40,5 +40,11 @@ describe "Road trip POST request" do
     expect(@road_trip_data[:data][:type]).to eq("roadtrip")
     expect(@road_trip_data[:data]).to have_key(:attributes)
     expect(@road_trip_data[:data][:attributes]).to be_a(Hash)
+    expect(@road_trip_data[:data][:attributes]).to have_key(:start_city)
+    expect(@road_trip_data[:data][:attributes]).to have_key(:end_city)
+    expect(@road_trip_data[:data][:attributes]).to have_key(:travel_time)
+    expect(@road_trip_data[:data][:attributes]).to have_key(:weather_at_eta)
+    expect(@road_trip_data[:data][:attributes][:weather_at_eta]).to have_key(:temperature)
+    expect(@road_trip_data[:data][:attributes][:weather_at_eta]).to have_key(:conditions)
   end
 end
