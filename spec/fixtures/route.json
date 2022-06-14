@@ -1,0 +1,404 @@
+{
+    "route": {
+        "hasTollRoad": false,
+        "hasBridge": true,
+        "boundingBox": {
+            "lr": {
+                "lng": -104.98484,
+                "lat": 38.900738
+            },
+            "ul": {
+                "lng": -108.281364,
+                "lat": 39.738453
+            }
+        },
+        "distance": 274.96,
+        "hasTimedRestriction": false,
+        "hasTunnel": true,
+        "hasHighway": true,
+        "computedWaypoints": [],
+        "routeError": {
+            "errorCode": -400,
+            "message": ""
+        },
+        "formattedTime": "04:37:01",
+        "sessionId": "62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+        "hasAccessRestriction": false,
+        "realTime": 10000000,
+        "hasSeasonalClosure": false,
+        "hasCountryCross": false,
+        "fuelUsed": 12.91,
+        "legs": [
+            {
+                "hasTollRoad": false,
+                "hasBridge": true,
+                "destNarrative": "Proceed to CEDAREDGE, CO.",
+                "distance": 274.96,
+                "hasTimedRestriction": false,
+                "hasTunnel": true,
+                "hasHighway": true,
+                "index": 0,
+                "formattedTime": "04:37:01",
+                "origIndex": 1,
+                "hasAccessRestriction": false,
+                "hasSeasonalClosure": false,
+                "hasCountryCross": false,
+                "roadGradeStrategy": [
+                    []
+                ],
+                "destIndex": 6,
+                "time": 16621,
+                "hasUnpaved": false,
+                "origNarrative": "Go west on E 13th Ave.",
+                "maneuvers": [
+                    {
+                        "distance": 0.109,
+                        "streets": [
+                            "N Sherman St"
+                        ],
+                        "narrative": "Start out going south on N Sherman St toward E 13th Ave.",
+                        "turnType": 0,
+                        "startPoint": {
+                            "lng": -104.984856,
+                            "lat": 39.738453
+                        },
+                        "index": 0,
+                        "formattedTime": "00:00:23",
+                        "directionName": "South",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.73845291137695,-104.98485565185547|marker-1||39.73687744140625,-104.9848403930664|marker-2||&center=39.7376651763916,-104.98484802246094&defaultMarker=none&zoom=13&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 0,
+                        "time": 23,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/icon-dirs-start_sm.gif",
+                        "direction": 4
+                    },
+                    {
+                        "distance": 0.815,
+                        "streets": [
+                            "E 13th Ave"
+                        ],
+                        "narrative": "Turn right onto E 13th Ave.",
+                        "turnType": 2,
+                        "startPoint": {
+                            "lng": -104.98484,
+                            "lat": 39.736877
+                        },
+                        "index": 1,
+                        "formattedTime": "00:02:05",
+                        "directionName": "West",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.73687744140625,-104.9848403930664|marker-2||39.736881256103516,-105.00013732910156|marker-3||&center=39.73687934875488,-104.99248886108398&defaultMarker=none&zoom=10&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 1024,
+                        "time": 125,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_right_sm.gif",
+                        "direction": 7
+                    },
+                    {
+                        "distance": 0.719,
+                        "streets": [
+                            "N Kalamath St"
+                        ],
+                        "narrative": "Turn left onto N Kalamath St.",
+                        "turnType": 6,
+                        "startPoint": {
+                            "lng": -105.000137,
+                            "lat": 39.736881
+                        },
+                        "index": 2,
+                        "formattedTime": "00:01:41",
+                        "directionName": "South",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.736881256103516,-105.00013732910156|marker-3||39.72645950317383,-105.00019073486328|marker-4||&center=39.73167037963867,-105.00016403198242&defaultMarker=none&zoom=10&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 0,
+                        "time": 101,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_left_sm.gif",
+                        "direction": 4
+                    },
+                    {
+                        "distance": 0.968,
+                        "streets": [],
+                        "narrative": "Take the 6TH AVE FWY W ramp toward I-25.",
+                        "turnType": 12,
+                        "startPoint": {
+                            "lng": -105.000191,
+                            "lat": 39.72646
+                        },
+                        "index": 3,
+                        "formattedTime": "00:01:19",
+                        "directionName": "West",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.72645950317383,-105.00019073486328|marker-4||39.725582122802734,-105.01773071289062|marker-5||&center=39.72602081298828,-105.00896072387695&defaultMarker=none&zoom=10&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 1152,
+                        "time": 79,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_ramp_sm.gif",
+                        "direction": 7
+                    },
+                    {
+                        "distance": 8.502,
+                        "streets": [
+                            "US-6 W"
+                        ],
+                        "narrative": "Stay straight to go onto US-6 W.",
+                        "turnType": 0,
+                        "startPoint": {
+                            "lng": -105.017731,
+                            "lat": 39.725582
+                        },
+                        "index": 4,
+                        "formattedTime": "00:08:35",
+                        "directionName": "West",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [
+                            {
+                                "extraText": "",
+                                "text": "6",
+                                "type": 2,
+                                "url": "http://icons.mqcdn.com/icons/rs2.png?n=6&d=WEST",
+                                "direction": 7
+                            }
+                        ],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.725582122802734,-105.01773071289062|marker-5||39.72538375854492,-105.1772689819336|marker-6||&center=39.72548294067383,-105.09749984741211&defaultMarker=none&zoom=7&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 1152,
+                        "time": 515,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_straight_sm.gif",
+                        "direction": 7
+                    },
+                    {
+                        "distance": 213.32,
+                        "streets": [
+                            "I-70 W"
+                        ],
+                        "narrative": "Merge onto I-70 W toward Grand Junction.",
+                        "turnType": 10,
+                        "startPoint": {
+                            "lng": -105.177269,
+                            "lat": 39.725384
+                        },
+                        "index": 5,
+                        "formattedTime": "03:12:48",
+                        "directionName": "West",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [
+                            {
+                                "extraText": "",
+                                "text": "70",
+                                "type": 1,
+                                "url": "http://icons.mqcdn.com/icons/rs1.png?n=70&d=WEST",
+                                "direction": 7
+                            }
+                        ],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.72538375854492,-105.1772689819336|marker-6||39.184513092041016,-108.28059387207031|marker-7||&center=39.45494842529297,-106.72893142700195&defaultMarker=none&zoom=3&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 3200,
+                        "time": 11568,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_merge_right_sm.gif",
+                        "direction": 7
+                    },
+                    {
+                        "distance": 0.138,
+                        "streets": [],
+                        "narrative": "Take the CO-65 S exit, EXIT 49, toward Grand Mesa/Collbran/CO-330 E.",
+                        "turnType": 14,
+                        "startPoint": {
+                            "lng": -108.280594,
+                            "lat": 39.184513
+                        },
+                        "index": 6,
+                        "formattedTime": "00:00:16",
+                        "directionName": "South",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [
+                            {
+                                "extraText": "",
+                                "text": "49",
+                                "type": 1001,
+                                "url": "http://icons.mqcdn.com/icons/rs1001.png?n=49&d=RIGHT",
+                                "direction": 0
+                            }
+                        ],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.184513092041016,-108.28059387207031|marker-7||39.182621002197266,-108.28136444091797|marker-8||&center=39.18356704711914,-108.28097915649414&defaultMarker=none&zoom=12&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 0,
+                        "time": 16,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_gr_exitright_sm.gif",
+                        "direction": 4
+                    },
+                    {
+                        "distance": 50.389,
+                        "streets": [
+                            "CO-65"
+                        ],
+                        "narrative": "Turn left onto Grand Mesa Scenic and Historic Byway/Highway 65/CO-65. Continue to follow CO-65.",
+                        "turnType": 6,
+                        "startPoint": {
+                            "lng": -108.281364,
+                            "lat": 39.182621
+                        },
+                        "index": 7,
+                        "formattedTime": "01:09:54",
+                        "directionName": "South",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [
+                            {
+                                "extraText": "",
+                                "text": "65",
+                                "type": 505,
+                                "url": "http://icons.mqcdn.com/icons/rs505.png?n=65",
+                                "direction": 0
+                            }
+                        ],
+                        "mapUrl": "http://www.mapquestapi.com/staticmap/v5/map?key=0Mq0cUz5VJZGIauuijg2GAUw8I86jmUB&size=225,160&locations=39.182621002197266,-108.28136444091797|marker-8||38.90073776245117,-107.92376708984375|marker-9||&center=39.04167938232422,-108.10256576538086&defaultMarker=none&zoom=5&rand=1696931018&session=62a8e36c-03c9-5f21-02b4-375f-0215180928df",
+                        "transportMode": "AUTO",
+                        "attributes": 1024,
+                        "time": 4194,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/rs_left_sm.gif",
+                        "direction": 4
+                    },
+                    {
+                        "distance": 0,
+                        "streets": [],
+                        "narrative": "Welcome to CEDAREDGE, CO.",
+                        "turnType": -1,
+                        "startPoint": {
+                            "lng": -107.923767,
+                            "lat": 38.900738
+                        },
+                        "index": 8,
+                        "formattedTime": "00:00:00",
+                        "directionName": "",
+                        "maneuverNotes": [],
+                        "linkIds": [],
+                        "signs": [],
+                        "transportMode": "AUTO",
+                        "attributes": 0,
+                        "time": 0,
+                        "iconUrl": "http://content.mqcdn.com/mqsite/turnsigns/icon-dirs-end_sm.gif",
+                        "direction": 0
+                    }
+                ],
+                "hasFerry": false
+            }
+        ],
+        "options": {
+            "arteryWeights": [],
+            "cyclingRoadFactor": 1,
+            "timeType": 0,
+            "useTraffic": false,
+            "returnLinkDirections": false,
+            "countryBoundaryDisplay": true,
+            "enhancedNarrative": false,
+            "locale": "en_US",
+            "tryAvoidLinkIds": [],
+            "drivingStyle": 2,
+            "doReverseGeocode": true,
+            "generalize": -1,
+            "mustAvoidLinkIds": [],
+            "sideOfStreetDisplay": true,
+            "routeType": "FASTEST",
+            "avoidTimedConditions": false,
+            "routeNumber": 0,
+            "shapeFormat": "raw",
+            "maxWalkingDistance": -1,
+            "destinationManeuverDisplay": true,
+            "transferPenalty": -1,
+            "narrativeType": "text",
+            "walkingSpeed": -1,
+            "urbanAvoidFactor": -1,
+            "stateBoundaryDisplay": true,
+            "unit": "M",
+            "highwayEfficiency": 22,
+            "maxLinkId": 0,
+            "maneuverPenalty": -1,
+            "avoidTripIds": [],
+            "filterZoneFactor": -1,
+            "manmaps": "true"
+        },
+        "locations": [
+            {
+                "dragPoint": false,
+                "displayLatLng": {
+                    "lng": -104.984856,
+                    "lat": 39.738453
+                },
+                "adminArea4": "Denver County",
+                "adminArea5": "Denver",
+                "postalCode": "",
+                "adminArea1": "US",
+                "adminArea3": "CO",
+                "type": "s",
+                "sideOfStreet": "N",
+                "geocodeQualityCode": "A5XAX",
+                "adminArea4Type": "County",
+                "linkId": 42409351,
+                "street": "",
+                "adminArea5Type": "City",
+                "geocodeQuality": "CITY",
+                "adminArea1Type": "Country",
+                "adminArea3Type": "State",
+                "latLng": {
+                    "lng": -104.984853,
+                    "lat": 39.738453
+                }
+            },
+            {
+                "dragPoint": false,
+                "displayLatLng": {
+                    "lng": -107.923767,
+                    "lat": 38.900738
+                },
+                "adminArea4": "Delta County",
+                "adminArea5": "Cedaredge",
+                "postalCode": "",
+                "adminArea1": "US",
+                "adminArea3": "CO",
+                "type": "s",
+                "sideOfStreet": "N",
+                "geocodeQualityCode": "A5XAX",
+                "adminArea4Type": "County",
+                "linkId": 20240340,
+                "street": "",
+                "adminArea5Type": "City",
+                "geocodeQuality": "CITY",
+                "adminArea1Type": "Country",
+                "adminArea3Type": "State",
+                "latLng": {
+                    "lng": -107.923767,
+                    "lat": 38.900738
+                }
+            }
+        ],
+        "time": 16621,
+        "hasUnpaved": false,
+        "locationSequence": [
+            0,
+            1
+        ],
+        "hasFerry": false
+    },
+    "info": {
+        "statuscode": 0,
+        "copyright": {
+            "imageAltText": "© 2022 MapQuest, Inc.",
+            "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+            "text": "© 2022 MapQuest, Inc."
+        },
+        "messages": []
+    }
+}
