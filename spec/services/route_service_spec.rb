@@ -1,7 +1,7 @@
 require "rails_helper"
 
 describe RouteService do
-  it "gets route data" do
+  it "gets route data", :vcr do
     route_data = RouteService.get_route_data("denver,co", "cedaredge,co")
 
     expect(route_data).to be_a(Hash)
