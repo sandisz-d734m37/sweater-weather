@@ -1,11 +1,24 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/road_trip.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/user.rb": {
         "lines": [
           1,
           1,
           1,
+          1,
+          null,
           1,
           null
         ]
@@ -639,6 +652,6 @@
         }
       }
     },
-    "timestamp": 1655242527
+    "timestamp": 1655242822
   }
 }

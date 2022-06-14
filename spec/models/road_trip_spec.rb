@@ -8,6 +8,6 @@ describe RoadTrip, type: :model do
   end
 
   describe "relationshps" do
-    it {should have_one(:user)}
+    it {should belong_to(:user)}
   end
 end
