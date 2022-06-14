@@ -82,6 +82,15 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/poros/book.rb": {
         "lines": [
           1,
@@ -393,6 +402,58 @@
           null
         ]
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/users_controller.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          2,
+          null,
+          2,
+          2,
+          null,
+          null,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/user_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/sessions_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/weather_controller.rb": {
         "lines": [
           1,
@@ -457,6 +518,6 @@
         ]
       }
     },
-    "timestamp": 1655143060
+    "timestamp": 1655165458
   }
 }
