@@ -30,7 +30,7 @@ describe "Road trip POST request" do
     @road_trip_data = JSON.parse(response.body, symbolize_names: true)
   end
 
-  it "creates a road trip", :vcr do
+  it "creates a road trip" do
     expect(response).to be_successful
 
     expect(@road_trip_data).to be_a(Hash)
