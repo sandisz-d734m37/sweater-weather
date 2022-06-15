@@ -16,7 +16,7 @@ class Api::V1::RoadTripController < ApplicationController
         end
       end
     else
-      render json: ErrorSerializer.error_with_code(401), status: 401
+      render json: ErrorSerializer.error_with_status(:api_key), status: 401
     end
   end
 end

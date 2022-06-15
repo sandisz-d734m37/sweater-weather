@@ -5,17 +5,17 @@
         "lines": [
           1,
           1,
-          2,
-          2,
+          3,
+          3,
           null,
-          2,
-          2,
+          3,
+          3,
           null,
           null,
           null,
           1,
           1,
-          2,
+          3,
           null,
           null
         ]
@@ -38,7 +38,7 @@
           null,
           1,
           null,
-          3,
+          4,
           null,
           null,
           null,
@@ -55,10 +55,50 @@
         "lines": [
           1,
           1,
-          2,
+          3,
+          null,
+          3,
+          1,
           null,
           2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/error_serializer.rb": {
+        "lines": [
           1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          2,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null
@@ -73,35 +113,6 @@
           null,
           0,
           null,
-          0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/serializers/error_serializer.rb": {
-        "lines": [
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0,
           0,
           0,
@@ -743,6 +754,6 @@
         }
       }
     },
-    "timestamp": 1655263097
+    "timestamp": 1655263577
   }
 }
