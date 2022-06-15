@@ -6,7 +6,6 @@ class RouteFacade
       if route_data[:info][:statuscode] == 0
         Route.new(route_data)
       else
-        binding.pry
         "Trip data cannot be calculated."
       end
     end
