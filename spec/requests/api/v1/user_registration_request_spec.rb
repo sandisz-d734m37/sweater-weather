@@ -49,4 +49,24 @@ describe "User registration error handling" do
     expect(error_data[:data][:error_code]).to eq(409)
     expect(error_data[:data][:error_mesage]).to eq("Conflict: user already exists")
   end
+
+  it "returns 400 error if password confirmation is incorrect" do
+    headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    body = {
+      email: "user_1@firstuser.com",
+      password: "user1password",
+      password_confirmation: "incorect_password"
+    }
+
+    post "/api/v1/users", headers: headers, params: JSON.generate(body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(400)
+    expect(error_data[:data][:error_mesage]).to eq("Bad request: all fields must be populated and passwords must match")
+  end
 end
