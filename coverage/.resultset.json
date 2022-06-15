@@ -5,17 +5,19 @@
         "lines": [
           1,
           1,
-          5,
-          5,
+          3,
+          3,
           null,
-          5,
-          5,
+          3,
+          2,
+          1,
+          1,
           null,
           null,
           null,
           1,
           1,
-          5,
+          3,
           null,
           null
         ]
@@ -38,7 +40,7 @@
           null,
           1,
           null,
-          6,
+          2,
           null,
           null,
           null,
@@ -46,21 +48,6 @@
           null,
           null,
           null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/sessions_controller.rb": {
-        "lines": [
-          1,
-          1,
-          5,
-          null,
-          5,
-          1,
-          null,
-          4,
           null,
           null,
           null
@@ -74,26 +61,37 @@
           1,
           1,
           null,
-          4,
-          null,
-          null,
-          null,
-          4,
-          null,
-          null,
           1,
-          null,
-          4,
-          null,
-          null,
-          null,
           null,
           null,
           null,
           null,
           1,
           null,
-          4,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
           null,
           null,
           null,
@@ -614,6 +612,23 @@
         "branches": {
         }
       },
+      "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/sessions_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/sandiszthieme/turing/3module/projects/sweater-weather/app/controllers/api/v1/books_controller.rb": {
         "lines": [
           0,
@@ -754,6 +769,6 @@
         }
       }
     },
-    "timestamp": 1655263788
+    "timestamp": 1655264813
   }
 }

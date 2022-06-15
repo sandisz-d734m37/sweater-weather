@@ -5,6 +5,8 @@ class Api::V1::UsersController < ApplicationController
 
     if user.save
       render json: UserSerializer.register(user), status: :created
+    elsif User.find_by(email: params[:email])
+      render json: ErrorSerializer.error_with_status(:already_exists), status: 409
     end
   end
 
