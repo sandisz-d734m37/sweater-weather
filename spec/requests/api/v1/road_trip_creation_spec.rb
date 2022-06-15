@@ -123,4 +123,24 @@ describe "Road trip POST request" do
     end
   end
 
+  describe "error handling" do
+    it "returns 401 error when no API key is provided" do
+      road_trip_headers = {
+        "Content-type": "application/json",
+        "Accept": "application/json"
+      }
+      road_trip_body = {
+        origin: "denver,co",
+        destination: "cedaredge,co"
+      }
+
+      post "/api/v1/road_trip", headers: road_trip_headers, params: JSON.generate(road_trip_body)
+
+      error_data = JSON.parse(response.body, symbolize_names: true)
+
+      expect(error_data[:data][:type]).to eq("error")
+      expect(error_data[:data][:error_code]).to eq(401)
+      expect(error_data[:data][:error_mesage]).to eq("Invalid API key")
+    end
+  end
 end
