@@ -88,7 +88,7 @@ describe "Road trip POST request" do
       expect(@road_trip_data[:data][:attributes]).to have_key(:start_city)
       expect(@road_trip_data[:data][:attributes][:start_city]).to eq("Denver, CO")
       expect(@road_trip_data[:data][:attributes]).to have_key(:end_city)
-      expect(@road_trip_data[:data][:attributes][:end_city]).to eq("Denver, CO")
+      expect(@road_trip_data[:data][:attributes][:end_city]).to eq("New York, NY")
       expect(@road_trip_data[:data][:attributes]).to have_key(:travel_time)
       expect(@road_trip_data[:data][:attributes][:travel_time]).to eq("26:07:39")
       expect(@road_trip_data[:data][:attributes]).to have_key(:weather_at_eta)
