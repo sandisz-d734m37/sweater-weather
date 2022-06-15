@@ -110,4 +110,22 @@ describe "Create a Session error handling" do
     expect(error_data[:data][:error_code]).to eq(401)
     expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
   end
+
+  it "returns a 401 response if no password is given" do
+    session_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    session_body = {
+      email: "user_1@firstuser.com"
+    }
+
+    post "/api/v1/sessions", headers: session_headers, params: JSON.generate(session_body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(401)
+    expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
+  end
 end
