@@ -10,7 +10,7 @@ In other words, users can determine whether they ought to bring a sweater, based
 
 ## How to: initial set up
 
-1. Clone down this repository down by running this command in your terminal:
+1. Clone this repository down by running this command in your terminal:
   `$ git clone git@github.com:sandisz-d734m37/sweater-weather.git`
 2. Navigate into your newly cloned directory
 3. Install all of the necessary gems by runnning `$ bundle install` in your terminal
@@ -21,7 +21,7 @@ In other words, users can determine whether they ought to bring a sweater, based
 
 Sweater Weather makes use of __three external API__, all of which __require their own API keys__. Here, I'll lead you to where you need to go to get your very own API key!
 
-#### [Bing Image Search API]([https://www.google.com](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api)) - just click the `try now` button and follow the steps to create an account
+#### [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api) - just click the `try now` button and follow the steps to create an account
 
 #### [MapQuest GeoCoder and Directions API](https://developer.mapquest.com/user/login/sign-up) - Follow the steps to sign up and get your API key
 
@@ -46,7 +46,7 @@ If you'd like to check, you can run `$ bundle exec rspec` in your terminal and y
 ### First things first: start up your sever
 
 You can start your server by simply running `$ rails s` in your terminal!
-You can halt your server at any time by pressing `ctrl c` in your terminal. Note: you will have to start up your server again hit any of the endpoints below
+You can halt your server at any time by pressing `ctrl c` in your terminal. Note: you will have to start up your server again in order to hit any of the endpoints below
 
 ### User Registration endpoint
 
@@ -58,12 +58,12 @@ For this enpoint, we'll be sending a `POST` request which should look like this:
 ```
 POST localhost:5000/api/v1/users
 ```
-(meaning select `POST` on the dropdown to the left of your address bar, then copy and paste that `URI` into ypur addrsss bar (or whatever app you've chosen to use) __*while your server is running*__)
+(meaning select `POST` on the dropdown to the left of your address bar, then copy and paste that `URI` into ypur address bar __*while your server is running*__)
 
 Before hitting `send`, you'll have to send some params in the body!
 
 To do this in `PostMan`, navigate to `Body` (this option is just below your address bar)
-From here, select `raw` then in the dropdown you'll see to the right, select `JSON`
+From here, select `raw` just below wehre you've selected `body`, then in the dropdown you'll see to the right, select `JSON`
 
 In the text box you'll see, add your user information like this:
 
@@ -75,7 +75,7 @@ In the text box you'll see, add your user information like this:
 }
 ```
 
-__*The brackets and questions are required!*__
+__*The brackets and quotations are required!*__
 
 Now, click send and you should see something like this:
 
@@ -292,7 +292,7 @@ Hit Send and you should see a response like this:
 ### Creating a road trip
 Here we are, the real functionality of our lovely application.
 
-This is another `POST` request, so make sure you've selected `POST` in thart dropdown we've talked so much about.
+This is another `POST` request, so make sure you've selected `POST` in that dropdown we've talked so much about.
 
 Now put this into your address bar:
 
@@ -331,10 +331,10 @@ And you should see a response just like this:
 
 ### Going on a road trip
 
-At this point, you'll want to determin whether you need a sweater based on the weather provided in the previous response.
+At this point, you'll want to determine whether you'll need a sweater based on the weather provided in the previous endpoint.
 
-Grab your sweater after you determined whether you need it or not, based on the weather.
+`GET` your sweater (or don't) after you've determined whether you'll need it or not, based on the weather.
 
 `GET` into your or a friends car
 
-`go`
+`GET` your travel on!
