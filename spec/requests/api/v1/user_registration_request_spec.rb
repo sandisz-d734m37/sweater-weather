@@ -27,3 +27,26 @@ describe "User registration" do
     expect(user_data[:data][:attributes]).to have_key(:api_key)
   end
 end
+
+describe "User registration error handling" do
+  it "returns 409 error if user already exists" do
+    headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    body = {
+      email: "user_1@firstuser.com",
+      password: "user1password",
+      password_confirmation: "user1password"
+    }
+
+    post "/api/v1/users", headers: headers, params: JSON.generate(body)
+    post "/api/v1/users", headers: headers, params: JSON.generate(body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(409)
+    expect(error_data[:data][:error_mesage]).to eq("Conflict: user already exists")
+  end
+end
