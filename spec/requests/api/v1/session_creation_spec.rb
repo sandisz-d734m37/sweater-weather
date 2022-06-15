@@ -38,3 +38,94 @@ describe "Create a Session" do
     expect(user_data[:data][:attributes]).to have_key(:api_key)
   end
 end
+
+describe "Create a Session error handling" do
+  before do
+    user_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    user_body = {
+      email: "user_1@firstuser.com",
+      password: "correct",
+      password_confirmation: "correct"
+    }
+
+    post "/api/v1/users", headers: user_headers, params: JSON.generate(user_body)
+
+  end
+
+  it "returns a 401 response if password is incorrect" do
+    session_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    session_body = {
+      email: "user_1@firstuser.com",
+      password: "completely_incorrect!"
+    }
+
+    post "/api/v1/sessions", headers: session_headers, params: JSON.generate(session_body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(401)
+    expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
+  end
+
+  it "returns a 401 response if email is incorrect" do
+    session_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    session_body = {
+      email: "not_correct@wrong.com",
+      password: "correct"
+    }
+
+    post "/api/v1/sessions", headers: session_headers, params: JSON.generate(session_body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(401)
+    expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
+  end
+
+  it "returns a 401 response if no email is given" do
+    session_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    session_body = {
+      password: "correct"
+    }
+
+    post "/api/v1/sessions", headers: session_headers, params: JSON.generate(session_body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(401)
+    expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
+  end
+
+  it "returns a 401 response if no password is given" do
+    session_headers = {
+      "Content-type": "application/json",
+      "Accept": "application/json"
+    }
+    session_body = {
+      email: "user_1@firstuser.com"
+    }
+
+    post "/api/v1/sessions", headers: session_headers, params: JSON.generate(session_body)
+
+    error_data = JSON.parse(response.body, symbolize_names:true)
+
+    expect(error_data[:data][:type]).to eq("error")
+    expect(error_data[:data][:error_code]).to eq(401)
+    expect(error_data[:data][:error_mesage]).to eq("Invalid log in credentials")
+  end
+end
