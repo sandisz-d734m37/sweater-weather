@@ -25,10 +25,10 @@ describe "Background Image request" do
   it "sends image data" do
     expect(@image_response[:data][:attributes][:image]).to be_a(Hash)
     expect(@image_response[:data][:attributes][:image][:location]).to eq("denver,co")
-    expect(@image_response[:data][:attributes][:image][:image_url]).to eq("https://lovingcities.schottfoundation.org/wp-content/uploads/2018/01/profile-denver.jpg")
+    expect(@image_response[:data][:attributes][:image][:image_url]).to eq("https://meetingsource.com/wp-content/uploads/2017/01/Denver_345958679.jpg")
     expect(@image_response[:data][:attributes][:image][:credit]).to be_a(Hash)
-    expect(@image_response[:data][:attributes][:image][:credit][:source]).to eq("https://lovingcities.schottfoundation.org/cities/denver-co")
+    expect(@image_response[:data][:attributes][:image][:credit][:source]).to eq("https://meetingsource.com/listing/denver")
     expect(@image_response[:data][:attributes][:image][:credit][:author]).to eq(nil)
-    expect(@image_response[:data][:attributes][:image][:credit][:logo]).to eq("https://www.bing.com/th?id=ODF.xluPUAU6PNgXuUquHZGAuA&pid=Api")
+    expect(@image_response[:data][:attributes][:image][:credit][:logo]).to eq(nil)
   end
 end

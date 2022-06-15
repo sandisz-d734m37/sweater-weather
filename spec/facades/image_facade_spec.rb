@@ -13,10 +13,10 @@ describe ImageFacade do
   it "create's an image PORO" do
     expect(@image).to be_an(Image)
     expect(@image.location).to eq("denver,co")
-    expect(@image.image_url).to eq("https://lovingcities.schottfoundation.org/wp-content/uploads/2018/01/profile-denver.jpg")
+    expect(@image.image_url).to eq("https://meetingsource.com/wp-content/uploads/2017/01/Denver_345958679.jpg")
     expect(@image.credit).to be_a(Hash)
-    expect(@image.credit[:source]).to eq("https://lovingcities.schottfoundation.org/cities/denver-co")
+    expect(@image.credit[:source]).to eq("https://meetingsource.com/listing/denver")
     expect(@image.credit[:author]).to eq(nil)
-    expect(@image.credit[:logo]).to eq("https://www.bing.com/th?id=ODF.xluPUAU6PNgXuUquHZGAuA&pid=Api")
+    expect(@image.credit[:logo]).to eq(nil)
   end
 end
