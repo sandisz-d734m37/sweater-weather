@@ -15,6 +15,8 @@ class Api::V1::RoadTripController < ApplicationController
           render json: RoadTripSerializer.create_road_trip(road_trip, weather), status: :created
         end
       end
+    else
+      render json: ErrorSerializer.error_with_code(401), status: 401
     end
   end
 end
