@@ -78,6 +78,7 @@ VCR.configure do |config|
   config.hook_into :webmock
   config.configure_rspec_metadata!
   config.filter_sensitive_data("Sike you thought") { ENV['MAPQUEST_API_KEY'] }
+  config.filter_sensitive_data("Sike you thought") { ENV['BING_API_KEY'] }
   config.filter_sensitive_data("Sike you thought") { ENV['WEATHER_API_KEY'] }
   config.allow_http_connections_when_no_cassette = true
 end
