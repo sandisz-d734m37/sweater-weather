@@ -97,4 +97,30 @@ describe "Road trip POST request" do
     end
   end
 
+  describe "Road Trip: Impossible (ft. Tom Cruise)" do
+    before do
+      road_trip_headers = {
+        "Content-type": "application/json",
+        "Accept": "application/json"
+      }
+      road_trip_body = {
+        origin: "denver,co",
+        destination: "brussels",
+        api_key: @user.api_key
+      }
+
+      post "/api/v1/road_trip", headers: road_trip_headers, params: JSON.generate(road_trip_body)
+
+      @road_trip_data = JSON.parse(response.body, symbolize_names: true)
+    end
+
+    it "fails gracefully" do
+      expect(@road_trip_data).to be_a(Hash)
+      expect(@road_trip_data[:data][:attributes][:start_city]).to eq("denver,co")
+      expect(@road_trip_data[:data][:attributes][:end_city]).to eq("brussels")
+      expect(@road_trip_data[:data][:attributes][:travel_time]).to eq("impossible")
+      expect(@road_trip_data[:data][:attributes][:weather_at_eta]).to be_empty
+    end
+  end
+
 end
