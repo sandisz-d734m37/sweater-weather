@@ -14,6 +14,9 @@ jobs:
           username: mydockerhub-user
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
+      - run:
+          name: bundle lock
+          command: bundle lock --add-platform x86_64-linux
       - checkout # pull down our git code.
       - ruby/install-deps # use the ruby orb to install dependencies
       # use the node orb to install our packages
@@ -22,9 +25,7 @@ jobs:
       # - node/install-packages:
       #     pkg-manager: yarn
       #     cache-key: "yarn.lock"
-      - run:
-          name: bundle lock
-          command: bundle lock --add-platform x86_64-linux
+      
 
   test:  # our next job, called "test"
     # we run "parallel job containers" to enable speeding up our tests;
