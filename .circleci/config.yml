@@ -14,9 +14,6 @@ jobs:
           username: mydockerhub-user
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
     steps:
-      - run:
-          name: bundle lock
-          command: bundle lock --add-platform x86_64-linux
       - checkout # pull down our git code.
       - ruby/install-deps # use the ruby orb to install dependencies
       # use the node orb to install our packages
