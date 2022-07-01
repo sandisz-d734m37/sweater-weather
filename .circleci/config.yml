@@ -64,7 +64,7 @@ jobs:
           command: dockerize -wait tcp://localhost:5432 -timeout 1m
       - run:
           name: Database setup
-          command: rake db:{create,migrate}
+          command: bundle exec rake db:{create,migrate}
       # Run rspec in parallel
       - run:
           name: RSPEC tests
